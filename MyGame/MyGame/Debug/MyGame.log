@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\projects\dkr_pgora\mygame\mygame\main.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\dkr_pgora\mygame\mygame\main.cpp(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\dkr_pgora\mygame\mygame\main.cpp(52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MyGame.vcxproj -> D:\Projects\DKR_pgora\MyGame\Debug\MyGame.exe
+  MyGame.vcxproj -> D:\Projects\DKR_pgora\MyGame\Debug\MyGame.pdb (Full PDB)
